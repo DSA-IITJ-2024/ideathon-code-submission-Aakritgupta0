@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/234bMY4A)
+Stable Roommates Algorithm Implementation
+This repository contains an implementation of the Stable Roommates algorithm, also known as Irving's algorithm, in C. The algorithm is designed to find a stable matching between individuals based on their preferences.
+
+Overview
+The Stable Roommates algorithm is a classic algorithm used to solve the stable matching problem, where a group of individuals each have preferences over potential partners, and the goal is to pair them up in a stable manner where no individual prefers another individual over their assigned partner.
+
+Features
+Reads preferences from a CSV file.
+Implements the Stable Roommates algorithm to find a stable matching.
+Saves the resulting matching pairs to a CSV file.
